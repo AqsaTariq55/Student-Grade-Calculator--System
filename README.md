@@ -39,8 +39,6 @@ displayStudents(): Displays formatted results in the console.
 saveToFile(): Writes the results to a text file.
 
 How to Compile and Run:
-g++ StudentGrades.cpp -o StudentGrades
-./StudentGrades
 
 g++ StudentGrades.cpp -o StudentGrades
 ./StudentGrades
